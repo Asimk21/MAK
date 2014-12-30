@@ -1,0 +1,23 @@
+From 3f0ec2292f8ecdc828b635a7498e93601ea9946e Mon Sep 17 00:00:00 2001
+From: asimk21 <asimk21@gmail.com>
+Date: Tue, 30 Dec 2014 17:11:21 +0530
+Subject: [PATCH] Changed name Patch
+
+---
+ Test checkin/changed name.txt | 3 +++
+ 1 file changed, 3 insertions(+)
+
+diff --git a/Test checkin/changed name.txt b/Test checkin/changed name.txt
+index 1ae2f23..5d007f0 100644
+--- a/Test checkin/changed name.txt	
++++ b/Test checkin/changed name.txt	
+@@ -6,3 +6,6 @@ Checking Head Tag
+ Added
+ 
+ 
++Creating patch file
++
++
+-- 
+1.9.4.msysgit.2
+
